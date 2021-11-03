@@ -1,0 +1,22 @@
+Body {
+    background-color: #2c3131;
+    color: #838383;
+}
+
+.borde___columna{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+}
+.Portada{
+    width: 100vmax;
+}
+.Imagen_portada{
+    width: 100vmax;
+}
+.Contexto{
+    width: 100vmax;
+}
+
+.border-primary {
+    border-color: #525252!important;
+}
