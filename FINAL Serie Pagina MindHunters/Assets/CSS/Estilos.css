@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+Body {
+    background-color: #1b1d1d;
+    color: #f8f6f6;
+}
+p{
+    font-family: 'Special Elite', cursive;
+    font-weight: 400;
+}
+h1{
+    font-family: 'Courier Prime', monospace;
+    font-weight: 700;
+}
+h2{
+    font-family: 'Courier Prime', monospace;
+    font-weight: 700;
+}
+
+.Portada{
+    width: 100%;
+}
+.Imagen_portada{
+    width: 100%;
+}
+.Columna_divisora{
+    width: 100%;
+    height: 3vmax;
+    background-color:#15292a;
+
+}
+.Imagen_contexto{
+    width: 100%;
+}
+.Imagen_argumento{
+    width: 100%;
+}
+.Contexto{
+    width: 100%;
+}
+
+.border-primary {
+    border-color: #525252!important;
+}
+
+.accordion-button{
+    color: #ffffff;
+    background-color: #25424a;
+    font-size: 1.2rem;
+
+}
+.accordion-button:not(.collapsed) {
+    color: #3b2a2a;
+    background-color: rgb(188, 207, 199);
+}
+.accordion-body{
+    background-color: #0b1616;
+}
+
+.Imagen_HoldenFord{
+    width: 80%;
+    border: 0.5vmax solid rgb(255, 255, 255);
+}
+.Mindhunters_Season1_Banner{
+    width: 100%;
+}
+.Capitulos_temporadas{
+    width: 100%;
+
+}
+.columna__CapitulosP{
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    margin-top: 2%;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 0px;
+    background-color:#25424a;
+}
+.columna__Capitulos{
+    margin-top: 2%;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 0px;
+}
+
+.columna__segundoP{
+    margin-top: 3.5%;
+    padding-left: 2%;
+    padding-top: 2%;
+
+}
+.columna__segundoP2{
+    margin-top: 3.5%;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+.alinearcentro{
+    text-align: center;
+}
+.columna__fichaT{
+    margin-top: 3.5%;
+    padding-left: 2%;
+    padding-top: 2%;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 0px;
+    background-color:#25424a;
+}
+.columna__fichaT2{
+    margin-top: 3.5%;
+    padding-left: 2%;
+    padding-top: 2%;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 0px;
+    background-color:#25424a;
+}
+.CONTEXTO__HISTÓRICO{
+    margin-top: 1.5%;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+}
+.CONTEXTO__HISTÓRICO2{
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    }
+.trailer__media{
+    padding-top: 2%;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 0px;
+    background-color:#25424a;
+}
+.columna__fichaseason{
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 2.8%;
+    margin-bottom: 2%;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 0px;
+    background-color:#25424a;
+}
+.video-container {
+    overflow: hidden;
+    position: relative;
+    width:100%;
+    padding: 2%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.video-container::after {
+    padding-top: 56.25%;
+    display: block;
+    content: '';
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.nav-item{
+    font-family: 'Special Elite', cursive !important;
+    font-weight: 400 !important;}
+.navbar-brand{
+    font-family: 'Special Elite', cursive !important;
+    font-weight: 400 !important;}
